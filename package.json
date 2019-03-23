@@ -1,6 +1,6 @@
 {
   "name": "react-avatar-edit",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "ReactJS component to upload, crop, and preview avatars",
   "main": "lib/react-avatar.js",
   "types": "src/avatar.d.ts",
@@ -28,7 +28,8 @@
   ],
   "homepage": "https://github.com/kirill3333/react-avatar#readme",
   "dependencies": {
-    "konva": "2.5.1"
+    "konva": "2.5.1",
+    "piexifjs": "1.0.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
